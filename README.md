@@ -21,7 +21,7 @@ Hey! I'm **pintaste**, a Full-Stack Engineer in Vancouver shipping production so
 
 `Node.js` · `FastAPI` · `PostgreSQL`
 
-`OpenAI API` · `Claude API`
+`OpenAI API` · `Claude API` · `PyTorch` · `Pyro`
 
 </td>
 </tr>
@@ -35,3 +35,10 @@ Hey! I'm **pintaste**, a Full-Stack Engineer in Vancouver shipping production so
 | [pdf2png](https://github.com/pintaste/pdf2png) | Native macOS PDF→PNG with 5-step DPI optimizer · Swift + SwiftUI |
 | [tab-out](https://github.com/pintaste/tab-out) | Chrome new-tab mission control · JS + Chrome MV3 |
 | [luleme](https://github.com/pintaste/luleme) | Android health tracking + AI analysis · Kotlin + Java |
+
+**AI**
+
+| Project | Description |
+|---------|-------------|
+| [llm-playground](https://github.com/pintaste/llm-playground) | Practical tools built with Claude API — PDF summarizer, commit msg generator, tab labeler |
+| [ai-algorithms](https://github.com/pintaste/ai-algorithms) | Classical AI implementations — BFS/DFS search, Bayesian inference, HMM with PyTorch + Pyro |
