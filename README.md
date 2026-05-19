@@ -1,4 +1,6 @@
-Hey! I'm **pintaste**, a Full-Stack Engineer in Vancouver shipping production software across native macOS apps, Android, Chrome extensions, and backend services. Creator of **pet-qr-app** | **pdf2png** | **tab-out** | **luleme**. <!-- github_stats starts -->13 followers<!-- github_stats ends --> on GitHub.
+Hey! I'm **pintaste** — Full-stack engineer in Vancouver building AI-powered tools.
+Swift for native · TypeScript + Python for web · Claude API for intelligence.
+<!-- github_stats starts -->13 followers<!-- github_stats ends -->
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
