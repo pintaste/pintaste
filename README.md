@@ -47,3 +47,10 @@ Swift for native · TypeScript + Python for web · Claude API for intelligence.
 | [swift-llm](https://github.com/pintaste/swift-llm) | Swift Package — 3-line LLM integration for iOS/macOS · Swift |
 | [llm-playground](https://github.com/pintaste/llm-playground) | Practical tools built with Claude API — PDF summarizer, commit msg generator, tab labeler |
 | [ai-algorithms](https://github.com/pintaste/ai-algorithms) | Classical AI implementations — BFS/DFS search, Bayesian inference, HMM with PyTorch + Pyro |
+
+**Contributing**
+
+| Project | PR |
+|---------|-----|
+| [simonw/llm-anthropic](https://github.com/simonw/llm-anthropic) | [Add base\_url option to ClaudeOptions](https://github.com/simonw/llm-anthropic/pull/69) |
+| [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | [RAG with local docs + automated PR review notebooks](https://github.com/anthropics/anthropic-cookbook/pull/644) |
