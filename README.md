@@ -42,5 +42,8 @@ Swift for native · TypeScript + Python for web · Claude API for intelligence.
 
 | Project | Description |
 |---------|-------------|
+| [claude-review](https://github.com/pintaste/claude-review) | GitHub Action — AI PR review with Claude · Python + Docker |
+| [ask-my-docs](https://github.com/pintaste/ask-my-docs) | RAG CLI — chat with local docs using Claude + FAISS · Python |
+| [swift-llm](https://github.com/pintaste/swift-llm) | Swift Package — 3-line LLM integration for iOS/macOS · Swift |
 | [llm-playground](https://github.com/pintaste/llm-playground) | Practical tools built with Claude API — PDF summarizer, commit msg generator, tab labeler |
 | [ai-algorithms](https://github.com/pintaste/ai-algorithms) | Classical AI implementations — BFS/DFS search, Bayesian inference, HMM with PyTorch + Pyro |
