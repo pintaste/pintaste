@@ -1,36 +1,28 @@
-### pintaste
+Hey! I'm **pintaste**, a Full-Stack Engineer in Vancouver shipping production software across native macOS apps, Android, browser extensions, and backend services. Creator of **pdf2png** | **tab-out** | **luleme**. <!-- github_stats starts -->13 followers<!-- github_stats ends --> on GitHub.
 
-Full-stack engineer in Vancouver. I ship production software across the stack — native macOS apps, Android, Chrome extensions, and backend services.
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
 
-CS graduate (SFU). Hands-on depth from systems code in C/C++ to TypeScript full-stack to Swift native UI.
+**Latest Releases**
 
----
+<!-- recent_releases starts -->
+• [pdf2png v4.4.0](https://github.com/pintaste/pdf2png/releases/tag/v4.4.0) - 2026-03-02
+<!-- recent_releases ends -->
 
-**Languages**
-`TypeScript` · `Python` · `Swift` · `Kotlin` · `C` · `C++`
+</td>
+<td width="50%" valign="top">
 
-**Frontend / Native**
-`SwiftUI` · `React` · `Chrome Extensions MV3` · `Android SDK`
+**Stack**
 
-**Backend**
+`TypeScript` · `Python` · `Swift` · `Kotlin` · `C++`
+
+`SwiftUI` · `React` · `Chrome MV3` · `Android SDK`
+
 `Node.js` · `FastAPI` · `PostgreSQL`
 
-**AI / LLM**
-`OpenAI API` · `Claude API` · `LLM integration`
+`OpenAI API` · `Claude API`
 
-**Tools**
-`Docker` · `Git` · `Xcode` · `Android Studio`
-
----
-
-**Shipped**
-
-| Project | Description |
-|---------|-------------|
-| [pdf2png](https://github.com/pintaste/pdf2png) | Native macOS PDF→PNG with 5-step DPI optimizer · Swift + SwiftUI + PDFKit |
-| [tab-out](https://github.com/pintaste/tab-out) | Chrome extension: new tab as tab mission control · JS + Chrome MV3 |
-| [luleme](https://github.com/pintaste/luleme) | Android health tracking app · Kotlin + Java |
-
----
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pintaste&show_icons=true&count_private=true&hide=stars&theme=default&hide_title=true)](https://github.com/pintaste)
+</td>
+</tr>
+</table>
