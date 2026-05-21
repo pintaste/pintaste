@@ -52,5 +52,9 @@ Swift for native · TypeScript + Python for web · Claude API for intelligence.
 
 | Project | PR |
 |---------|-----|
+| [simonw/llm](https://github.com/simonw/llm) | [Skip OpenAI model registration when no API key configured](https://github.com/simonw/llm/pull/1453) |
 | [simonw/llm-anthropic](https://github.com/simonw/llm-anthropic) | [Add base\_url option to ClaudeOptions](https://github.com/simonw/llm-anthropic/pull/69) |
-| [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | [RAG with local docs + automated PR review notebooks](https://github.com/anthropics/anthropic-cookbook/pull/644) |
+| [psf/requests](https://github.com/psf/requests) | [Broaden JsonType to fix mypy false positives](https://github.com/psf/requests/pull/7467) |
+| [pallets/click](https://github.com/pallets/click) | [Fix Python 2 urllib.urlopen in Advanced Patterns docs](https://github.com/pallets/click/pull/3492) |
+| [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) | [Handle error SSE events from Bedrock without AttributeError](https://github.com/anthropics/anthropic-sdk-python/pull/1572) |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | [RAG with local docs and automated PR review notebooks](https://github.com/anthropics/claude-cookbooks/pull/644) |
