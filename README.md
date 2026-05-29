@@ -1,6 +1,6 @@
-Hey! I'm **pintaste** — Full-stack engineer in Vancouver building AI-powered tools.
-Swift for native · TypeScript + Python for web · Claude API for intelligence.
-<!-- github_stats starts -->13 followers<!-- github_stats ends -->
+Hey! I'm **pintaste**, a full-stack engineer based in Vancouver building practical software products and tools that integrate AI into real-world workflows and user experiences.
+
+I care about shipping useful systems across web, mobile, and backend, where AI is used as a capability layer rather than the focus itself.
 
 [claude-review](https://github.com/pintaste/claude-review) · [ask-my-docs](https://github.com/pintaste/ask-my-docs) · [swift-llm](https://github.com/pintaste/swift-llm) · [Pet-QR-App](https://github.com/pintaste/pet-qr-app) · [pdf2png](https://github.com/pintaste/pdf2png)
 
