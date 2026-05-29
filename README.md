@@ -8,4 +8,4 @@ I care about shipping useful systems across web, mobile, and backend, where AI i
 • [pdf2png v4.4.0](https://github.com/pintaste/pdf2png/releases/tag/v4.4.0) - 2026-03-02
 <!-- recent_releases ends -->
 
-Contributing to [simonw/datasette](https://github.com/simonw/datasette/pull/2727) · [simonw/llm](https://github.com/simonw/llm/pull/1453) · [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python/pull/1572) · [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks/pull/644)
+Contributing to [simonw/datasette](https://github.com/simonw/datasette/pull/2727) · [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList/pull/13658)
