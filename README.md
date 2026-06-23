@@ -5,7 +5,7 @@ I care about shipping useful systems across web, mobile, and backend, where AI i
 [claude-review](https://github.com/pintaste/claude-review) · [ask-my-docs](https://github.com/pintaste/ask-my-docs) · [swift-llm](https://github.com/pintaste/swift-llm) · [Pet-QR-App](https://github.com/pintaste/pet-qr-app) · [pdf2png](https://github.com/pintaste/pdf2png)
 
 <!-- recent_releases starts -->
-• [OpenInOtty v0.0.2](https://github.com/pintaste/OpenInOtty/releases/tag/v0.0.2) - 2026-06-22<br>• [pdf2png v4.4.0](https://github.com/pintaste/pdf2png/releases/tag/v4.4.0) - 2026-03-02
+• [OpenInOtty v0.0.1](https://github.com/pintaste/OpenInOtty/releases/tag/v0.0.1) - 2026-06-23<br>• [pdf2png v4.4.0](https://github.com/pintaste/pdf2png/releases/tag/v4.4.0) - 2026-03-02
 <!-- recent_releases ends -->
 
 Contributing to [simonw/datasette](https://github.com/simonw/datasette/pull/2727) · [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList/pull/13658)
