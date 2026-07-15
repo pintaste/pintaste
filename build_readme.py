@@ -59,11 +59,6 @@ def fetch_releases():
     return unique[:MAX_RELEASES]
 
 
-def fetch_stats():
-    user = gh_get(f"/users/{GITHUB_USER}") or {}
-    return {"followers": user.get("followers", 0)}
-
-
 if __name__ == "__main__":
     readme = root / "README.md"
     content = readme.read_text()
@@ -74,10 +69,6 @@ if __name__ == "__main__":
         for r in releases
     ) or "• No releases yet"
     content = replace_chunk(content, "recent_releases", releases_md)
-
-    stats = fetch_stats()
-    stats_text = f"{stats['followers']:,} followers"
-    content = replace_chunk(content, "github_stats", stats_text, inline=True)
 
     readme.write_text(content)
     print("README updated.")
